@@ -1,0 +1,15 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Node / Composer (si aplica)
+node_modules/
+vendor/
+
+# Logs / cache
+*.log
+.cache/
+tmp/
